@@ -4,8 +4,8 @@
 
 ## Features
 
-- **Varied Menu**: Explore a diverse selection of nutritious meals and beverages.
-- **Special Offers**: Highlighting promotions to demonstrate discount and offer handling.
+- **Varied Menu**: Explore various nutritious meals and beverages.
+- **Special Offers**: Highlighting promotions to demonstrate discounts and offer handling.
 - **Convenient Ordering**: Easily place orders via phone for delivery or pickup.
 - **Responsive Design**: The site adapts seamlessly across different screen sizes and devices.
 - **Interactive UI**: Engaging and intuitive interface with smooth navigation and dynamic elements.
@@ -19,6 +19,6 @@
 
 ## Live Demo
 
-A live demo of the Nutritious website is available [here](link to the website).
+A live demo of the Nutritious website is available [here](https://nutritious-theta.vercel.app/).
 
 Thank you for checking out Nutritious! Your feedback and contributions are appreciated.
